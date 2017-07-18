@@ -5,3 +5,5 @@ this is developed to crack the game word cookies (playstore)
 
 folder dictionary contains the list of words against which the formed word will be compared to verify if its a meaningful word, accuracy of 
 the program depends on the quality of that file.
+
+---EXECUTE word_crack.py -------
